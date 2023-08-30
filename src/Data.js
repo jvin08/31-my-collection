@@ -197,6 +197,21 @@ const data =   [
   ],
   date: "08 2023",
 },
+{
+  id:13,
+  name: 'blackjack',
+  category: 'card game',
+  link: "https://black-jack-card-game.netlify.app/",
+  info: "check your luck",
+  img:
+    'https://github.com/jvin08/portfolio_pages/blob/master/front-page-blackjack.png',
+  sources: [
+    ["querySelector","https://www.w3schools.com/jsref/met_document_queryselector.asp"],
+    ["Adjust Image Size Using JavaScript","https://www.w3schools.com/jsref/prop_img_width.asp"],
+    ["remove element from the list in JS","https://www.w3schools.com/jsref/met_node_removechild.asp"],
+  ],
+  date: "08 2023",
+},
 ];
 
 
