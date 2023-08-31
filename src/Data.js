@@ -204,7 +204,7 @@ const data =   [
   link: "https://black-jack-card-game.netlify.app/",
   info: "check your luck",
   img:
-    'https://github.com/jvin08/portfolio_pages/blob/master/front-page-blackjack.png',
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/front-page-blackjack.png',
   sources: [
     ["querySelector","https://www.w3schools.com/jsref/met_document_queryselector.asp"],
     ["Adjust Image Size Using JavaScript","https://www.w3schools.com/jsref/prop_img_width.asp"],
