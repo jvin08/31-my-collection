@@ -212,7 +212,6 @@ const data =   [
   ],
   date: "08 2023",
 },
-
 {
   id:14,
   name: 'passwords generator',
@@ -227,6 +226,21 @@ const data =   [
     ["get slider value","https://www.w3schools.com/howto/howto_js_rangeslider.asp"],
   ],
   date: "08 2023",
+},
+{
+  id:15,
+  name: 'leads tracker',
+  category: 'chrome-extention',
+  link: "https://leads-tracker-extention.netlify.app/",
+  info: "pick your leads and save them in localstorage",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/chrome-extention-front.png',
+  sources: [
+    ["css: box-sizing","https://www.w3schools.com/css/css3_box-sizing.asp"],
+    ["get item into loc.storage","https://www.w3schools.com/jsref/prop_win_localstorage.asp"],
+    ["grab current tab link (chrome, brave)","https://stackoverflow.com/questions/6132018/how-can-i-get-the-current-tab-url-for-chrome-extension"],
+  ],
+  date: "09 2023",
 },
 ];
 
