@@ -242,6 +242,21 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:16,
+  name: '6-units-converter',
+  category: 'web app',
+  link: "https://leads-tracker-extention.netlify.app/",
+  info: "meters to feet, liters to gallons, kilograms to pounds and back",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/front-page-converter.png',
+  sources: [
+    ["js: num.toFixed()","https://www.w3schools.com/jsref/jsref_tofixed.asp"],
+    ["addEventListener","https://www.w3schools.com/jsref/met_element_addeventlistener.asp"],
+    ["Input Text value Property","https://www.w3schools.com/jsref/prop_text_value.asp"],
+  ],
+  date: "09 2023",
+},
 ];
 
 
