@@ -246,7 +246,7 @@ const data =   [
   id:16,
   name: '6-units-converter',
   category: 'web app',
-  link: "https://leads-tracker-extention.netlify.app/",
+  link: "https://6-unit-converter.netlify.app/",
   info: "meters to feet, liters to gallons, kilograms to pounds and back",
   img:
     'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/front-page-converter.png',
