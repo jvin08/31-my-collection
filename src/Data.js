@@ -230,7 +230,7 @@ const data =   [
 {
   id:15,
   name: 'leads tracker',
-  category: 'chrome-extention',
+  category: 'chrome/brave-extention',
   link: "https://leads-tracker-extention.netlify.app/",
   info: "pick your leads and save them in localstorage",
   img:
