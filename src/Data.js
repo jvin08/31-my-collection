@@ -263,7 +263,7 @@ const data =   [
   name: 'oldagram',
   category: 'web app',
   link: "https://oldagram-copy-instagram.netlify.app/",
-  info: "instagram-(partially-clone-app)",
+  info: "instagram-(partially-clone-app), change likes by doubleclicking on the post image",
   img:
     'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/oldagram-front-page.jpeg',
   sources: [
