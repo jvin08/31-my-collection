@@ -257,6 +257,20 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:17,
+  name: 'oldagram',
+  category: 'web app',
+  link: "https://oldagram-copy-instagram.netlify.app/",
+  info: "instagram-(partially-clone-app)",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/oldagram-front-page.jpeg',
+  sources: [
+    ["css: background-size","https://www.w3schools.com/cssref/css3_pr_background-size.php"],
+    ["html update in JS","https://www.w3schools.com/js/js_htmldom_html.asp"],
+  ],
+  date: "09 2023",
+},
 ];
 
 
