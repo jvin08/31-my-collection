@@ -272,6 +272,22 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:18,
+  name: 'coworking spaces',
+  category: 'web app',
+  link: "https://coworking-hubs-page.netlify.app/",
+  info: "refreshing concepts with properties display:flex, position:fixed,absolute,relative,",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/portfolio-front-page.jpeg',
+  sources: [
+    ["css: position","https://www.w3schools.com/css/css_positioning.asp"],
+    ["align-self","https://www.w3schools.com/cssref/tryit.php?filename=trycss_align-self_grid"],
+    ["display:flex/margin:auto","https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_margin2"],
+    ["justify-content/gap", "https://www.w3schools.com/cssref/tryit.php?filename=trycss3_justify-content"]
+  ],
+  date: "09 2023",
+},
 ];
 
 
