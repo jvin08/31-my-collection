@@ -274,7 +274,7 @@ const data =   [
 },
 {
   id:18,
-  name: 'coworking spaces',
+  name: 'coworking spaces website frontpage',
   category: 'web app',
   link: "https://coworking-hubs-page.netlify.app/",
   info: "refreshing concepts with properties display:flex, position:fixed,absolute,relative,",
