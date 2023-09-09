@@ -300,6 +300,7 @@ const data =   [
     ["html: aria-label","https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label"],
     [".classList.toggle","https://developer.mozilla.org/en-US/docs/Web/API/Element/classList"],
     ["FormData","https://developer.mozilla.org/en-US/docs/Web/API/FormData"],
+    ["formData.get()","https://developer.mozilla.org/en-US/docs/Web/API/FormData/get"],
     ["e.preventDefault()", "https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault"],
     ["type=button","https://social.msdn.microsoft.com/Forums/en-US/51519356-93fa-4fbb-a102-7a66dd57b6de/difference-between-input-type-button-and-submit?forum=aspwebforms#:~:text=It%20depends%20on%20your%20purpose,%22Button%22%20is%20the%20choice."],
     ["innerHTML/innerText", "https://www.javatpoint.com/innertext-vs-innerhtml"]
