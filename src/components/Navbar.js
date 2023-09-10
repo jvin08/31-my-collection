@@ -2,7 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 import { AiOutlineInfoCircle } from "react-icons/ai";
-import { BiHomeAlt2 } from "react-icons/bi";
+import { SlHome } from "react-icons/sl";
 
 const Navbar = () => {
   return (
@@ -16,7 +16,7 @@ const Navbar = () => {
         <ul className='nav-links'>
           <li>
             <NavLink to="/">
-              <BiHomeAlt2 />
+              <SlHome />
             </NavLink>
           </li>
           <li>
@@ -24,7 +24,6 @@ const Navbar = () => {
               <AiOutlineInfoCircle />
             </NavLink>
           </li>
-
         </ul>
       </div>
     </nav>
