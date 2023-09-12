@@ -308,6 +308,25 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:20,
+  name: 'cats mood picker',
+  category: 'web app',
+  link: "https://cats-mood-pickker.netlify.app/",
+  info: "refreshing concepts with properties display:flex, position:fixed,absolute,relative,",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/cat-mood-picker-front-page.jpeg',
+  sources: [
+    ["js: for of","https://www.w3schools.com/js/js_loop_forof.asp"],
+    ["import/export","https://www.w3schools.com/js/js_modules.asp"],
+    ["radio&checkbox inputs","https://www.w3schools.com/tags/att_input_type_radio.asp"],
+    ["querySelector()","https://www.w3schools.com/jsref/met_document_queryselector.asp"],
+    ["getElementsByClassname()", "https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp"],
+    ["includes()","https://www.w3schools.com/jsref/jsref_includes_array.asp"],
+    ["filter()", "https://www.w3schools.com/jsref/jsref_filter.asp"],
+  ],
+  date: "09 12 2023",
+},
 ];
 
 
