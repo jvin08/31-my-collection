@@ -327,6 +327,26 @@ const data =   [
   ],
   date: "09 12 2023",
 },
+{
+  id:21,
+  name: 'xtwitter',
+  category: 'social app',
+  link: "x-clonee.netlify.app",
+  info: "social media clone web app",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/front-page-xtwitter.jpeg',
+  sources: [
+    ["text-area","https://www.w3schools.com/tags/tag_textarea.asp"],
+    [".forEach()","https://www.w3schools.com/js/js_modules.asp"],
+    ["data-attributes","https://www.w3schools.com/tags/att_data-.asp"],
+    ["conditionally-render-style","https://www.freecodecamp.org/news/react-change-inline-css-conditionally-based-on-component-state/"],
+    ["!not operator", "https://www.w3schools.com/sql/sql_not.asp"],
+    ["CDNs","https://www.cloudflare.com/learning/cdn/what-is-a-cdn/"],
+    ["add-icons", "https://fontawesome.com/start"],
+    ["generate UUIDs", "https://github.com/uuidjs/uuid"],
+  ],
+  date: "09 12 2023",
+},
 ];
 
 
