@@ -331,7 +331,7 @@ const data =   [
   id:21,
   name: 'xtwitter',
   category: 'social app',
-  link: "x-clonee.netlify.app",
+  link: "https://x-clonee.netlify.app/",
   info: "social media clone web app",
   img:
     'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/front-page-xtwitter.jpeg',
