@@ -292,7 +292,7 @@ const data =   [
   id:19,
   name: 'annoying cookie consent',
   category: 'web app',
-  link: "https://coworking-hubs-page.netlify.app/",
+  link: "https://cookie-consent-pop-up.netlify.app",
   info: "refreshing concepts with properties display:flex, position:fixed,absolute,relative,",
   img:
     'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/cookie-consent-page.jpg',
