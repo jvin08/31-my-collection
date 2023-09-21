@@ -2,24 +2,6 @@
 
 const data =   [
   {
-    id:22,
-    name: 'luxury bikes',
-    category: 'fake web store',
-    link: "https://opulent-bike-store.netlify.app/",
-    info: "bike's store front page",
-    img:
-      'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/bike-store-front-page.JPG',
-    sources: [
-      ["think-'responsively'", "https://www.freecodecamp.org/news/how-to-start-thinking-responsively/"], 
-      ["flex-box-image-grid", "https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"],
-      ["percentage-rem-em", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-      ["mediaquery-css", "https://www.w3schools.com/css/css3_mediaqueries.asp"],
-      ["flex-wrap-and-gap", "https://coryrylan.com/blog/css-gap-space-with-flexbox"],
-      ["flex-basis-flex-grow", "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis"],
-    ],
-    date: "09 2023",
-  },
-  {
     id:0,
     name: 'jobster',
     category: 'web app',
@@ -364,6 +346,24 @@ const data =   [
     ["generate UUIDs", "https://github.com/uuidjs/uuid"],
   ],
   date: "09 12 2023",
+},
+{
+  id:22,
+  name: 'luxury bikes',
+  category: 'fake web store',
+  link: "https://opulent-bike-store.netlify.app/",
+  info: "bike's store front page",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/bike-store-front-page.JPG',
+  sources: [
+    ["think-'responsively'", "https://www.freecodecamp.org/news/how-to-start-thinking-responsively/"], 
+    ["flex-box-image-grid", "https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"],
+    ["percentage-rem-em", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
+    ["mediaquery-css", "https://www.w3schools.com/css/css3_mediaqueries.asp"],
+    ["flex-wrap-and-gap", "https://coryrylan.com/blog/css-gap-space-with-flexbox"],
+    ["flex-basis-flex-grow", "https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis"],
+  ],
+  date: "09 2023",
 },
 ];
 
