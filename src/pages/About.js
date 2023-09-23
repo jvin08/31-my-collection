@@ -8,7 +8,7 @@ const About = () => {
         creating beautiful and engaging user experiences that are both 
         functional and intuitive. I develop responsive websites 
         using the latest HTML, CSS, and JavaScript technologies to ensure 
-        that my clients' websites look great on any device.
+        websites look great on any device.
       </p>
       <p>
         I have a deep understanding of user-centered design principles 
