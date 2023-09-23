@@ -365,6 +365,24 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:23,
+  name: 'snakes splash page',
+  category: 'splash page',
+  link: "https://snakes-splash.netlify.app/",
+  info: "bike's store front page",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/front-page-snakes.JPG',
+  sources: [
+    ["*,*::focus,*::after,box-sizing'", "https://www.w3schools.com/cssref/css3_pr_box-sizing.php"], 
+    ["min-height", "https://developer.mozilla.org/en-US/docs/Web/CSS/min-height"],
+    ["order/css", "https://developer.mozilla.org/en-US/docs/Web/CSS/order"],
+    ["text-transform", "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform"],
+    ["vh/vw(units)", "https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/"],
+    ["flex1", "https://developer.mozilla.org/en-US/docs/Web/CSS/flex"],
+  ],
+  date: "09 2023",
+},
 ];
 
 
