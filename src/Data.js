@@ -383,6 +383,23 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:124,
+  name: 'activity-ideas-generator',
+  category: 'one page',
+  link: "https://act-ivitygenerator.netlify.app/",
+  info: "button for generating activity ideas",
+  img:
+    'https://raw.githubusercontent.com/jvin08/65-api/main/_1.png',
+  sources: [
+    ["server & clients'", "https://kids.kiddle.co/Client-server"], 
+    ["request/response cycle", "https://www.codecademy.com/article/request-response-cycle-static"],
+    ["API", "https://kids.kiddle.co/Application_programming_interface#:~:text=An%20Application%20Programming%20Interface%20(API,providers%20running%20on%20the%20computer."],
+    ["JSON", "https://kids.kiddle.co/JSON"],
+    ["fetch syntax", "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch"],
+  ],
+  date: "09 2023",
+},
 ];
 
 
