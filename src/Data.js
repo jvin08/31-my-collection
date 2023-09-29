@@ -2,7 +2,7 @@
 
 const data =   [
   {
-    id:100,
+    id:1,
     name: 'jobster',
     category: 'web app',
     link: "https://jobs-tracking.netlify.app",
