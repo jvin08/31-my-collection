@@ -405,7 +405,7 @@ const data =   [
   name: 'war',
   category: 'web',
   link: "https://war-war-card-game.netlify.app/",
-  info: "button for generating activity ideas",
+  info: "Two-player game",
   img:
     'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/WAR-front-page.JPG',
   sources: [
