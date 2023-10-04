@@ -400,6 +400,26 @@ const data =   [
   ],
   date: "09 2023",
 },
+{
+  id:25,
+  name: 'war',
+  category: 'web',
+  link: "https://war-war-card-game.netlify.app/",
+  info: "button for generating activity ideas",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/WAR-front-page.JPG',
+  sources: [
+    ["async&await'", "https://raw.githubusercontent.com/jvin08/War-card-game/main/ASYNC-AWAIT.JPG"], 
+    ["query strings", "https://raw.githubusercontent.com/jvin08/War-card-game/main/query_strings.JPG"],
+    ["REST", "https://raw.githubusercontent.com/jvin08/War-card-game/main/REST.JPG"],
+    ["REST+","https://raw.githubusercontent.com/jvin08/War-card-game/main/REST_QUIZ_2.JPG"],
+    ["URL", "https://raw.githubusercontent.com/jvin08/War-card-game/main/REST_QUIZ.JPG"],
+    ["URL+", "https://raw.githubusercontent.com/jvin08/War-card-game/main/REST_QUIZ_3.JPG"],
+    ["Endpoints","https://raw.githubusercontent.com/jvin08/War-card-game/main/REST_QUIZ_4.JPG"],
+    ["URL-nested","https://raw.githubusercontent.com/jvin08/War-card-game/main/REST-2.JPG"],
+  ],
+  date: "10 2023",
+},
 ];
 
 
