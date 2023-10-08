@@ -13,7 +13,7 @@ const About = () => {
       </p>
       <p>
         I would love to hear more 
-        about your project via <a href='mailto:line53inc@gmail.com' className='address'>jvin08@gmail.com</a> and how I can help bring your vision to business.
+        about your project via <a href='mailto:line53inc@gmail.com' className='address'>line53inc@gmail.com</a> and how I can help bring your vision to business.
       </p>
     </section>
   )
