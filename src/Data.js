@@ -420,6 +420,22 @@ const data =   [
   ],
   date: "10 2023",
 },
+{
+  id:26,
+  name: 'my-business-card',
+  category: 'web-page',
+  link: "https://ivan-vasylyniuk.netlify.app/",
+  info: "one page web app",
+  img:
+    'https://raw.githubusercontent.com/jvin08/portfolio_pages/master/card-front-page.JPG',
+  sources: [
+    ["why react'", "https://www.freecodecamp.org/news/why-use-react-for-web-development/"], 
+    ["locally with 'vite'", "https://vitejs.dev/guide/"],
+    ["parent/child", "https://medium.com/@livajorge7/introduction-9e84391f4b83"],
+    ["mental outline","https://raw.githubusercontent.com/jvin08/portfolio_pages/bd5f1e6d6d8274d31466aa469d2874e364f9aca3/First_action.JPG"],
+  ],
+  date: "11 2023",
+},
 ];
 
 
