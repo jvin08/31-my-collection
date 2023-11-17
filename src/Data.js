@@ -3,6 +3,24 @@
 const data =   [
   {
     id:0,
+    name: 'pomodoro-a-p-p',
+    category: 'web app',
+    link: "https://pomodoro-a-p-p.netlify.app/",
+    info: "set up your task you want to accomplish, set up timer and go ahead",
+    img:
+      'https://raw.githubusercontent.com/jvin08/pomodoro-a-p/main/front-page.PNG',
+    sources: [
+      ["javascript", "https://www.javascript.com/learn"], 
+      ["settimeout", "https://developer.mozilla.org/en-US/docs/Web/API/setTimeout"],
+      ["setinterval", "https://developer.mozilla.org/en-US/docs/Web/API/setInterval"],
+      ["animation shake", "https://unused-css.com/blog/css-shake-animation/"],
+      ["transform: translate3d", "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d"],
+      ["color-faker", "https://cdn.skypack.dev/@faker-js/faker"],
+    ],
+    date: "11 2023",
+  },
+  {
+    id:1,
     name: 'jobster',
     category: 'web app',
     link: "https://jobs-tracking.netlify.app",
@@ -20,7 +38,7 @@ const data =   [
     date: "04 2023",
   },
   {
-    id:1,
+    id:2,
     name: 'quiz',
     category: 'web quiz',
     link: "https://qu-i-z.netlify.app",
@@ -33,7 +51,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:2,
+    id:3,
     name: 'gadgetopia',
     category: 'online store',
     link: "https://gadget-opia.netlify.app/",
@@ -49,7 +67,7 @@ const data =   [
     date: "02 2023",
   },
   {
-    id:3,
+    id:4,
     name: 'gallery',
     category: 'picture\'s bank',
     link: "https://st-ock-pho-to.netlify.app/",
@@ -65,7 +83,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:4,
+    id:5,
     name: 'cocktail\'s',
     category: 'drinks\'s bank',
     link: "https://cocktails4u.netlify.app/",
@@ -80,7 +98,7 @@ const data =   [
     date: "11 2022",
   },
   {
-    id:5,
+    id:6,
     name: 'create person',
     category: 'random people',
     link: "https://newrandomperson.netlify.app/",
@@ -95,7 +113,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:6,
+    id:7,
     name: 'pagination',
     category: 'random pages',
     link: "https://p-agination.netlify.app/",
@@ -109,7 +127,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:7,
+    id:8,
     name: 'movies searcher',
     category: 'collection',
     link: "https://mo-vies-db.netlify.app/",
@@ -123,7 +141,7 @@ const data =   [
     date: "12 2022",
   },
   {
-  id:8,
+  id:9,
   name: 'github user',
   category: 'users data',
   link: "https://charts4u.netlify.app/",
@@ -139,7 +157,7 @@ const data =   [
   date: "12 2022",
 },
 {
-  id:9,
+  id:10,
   name: 'theme toggler',
   category: 'front page',
   link: "https://t-heme-toggle.netlify.app/",
@@ -155,7 +173,7 @@ const data =   [
   date: "12 2022",
 },
 {
-  id:10,
+  id:11,
   name: 'application',
   category: 'form',
   link: "https://registr-form.netlify.app/",
@@ -168,7 +186,7 @@ const data =   [
   date: "01 2023",
 },
 {
-  id:11,
+  id:12,
   name: 'shopping list',
   category: 'notes',
   link: "https://shop-crocodile.netlify.app/",
@@ -184,7 +202,7 @@ const data =   [
   date: "06 2023",
 },
 {
-  id:12,
+  id:13,
   name: 'basketball scoreboard',
   category: 'score counter',
   link: "https://basket-ball-score-boards.netlify.app/",
@@ -199,7 +217,7 @@ const data =   [
   date: "08 2023",
 },
 {
-  id:13,
+  id:14,
   name: 'blackjack',
   category: 'card game',
   link: "https://black-jack-card-game.netlify.app/",
@@ -214,7 +232,7 @@ const data =   [
   date: "08 2023",
 },
 {
-  id:14,
+  id:15,
   name: 'passwords generator',
   category: 'security app',
   link: "https://two-passwords-generator.netlify.app/",
@@ -229,7 +247,7 @@ const data =   [
   date: "08 2023",
 },
 {
-  id:15,
+  id:16,
   name: 'leads tracker',
   category: 'chrome/brave-extention',
   link: "https://leads-tracker-extention.netlify.app/",
@@ -244,7 +262,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:16,
+  id:17,
   name: '6-units-converter',
   category: 'web app',
   link: "https://6-unit-converter.netlify.app/",
@@ -259,7 +277,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:17,
+  id:18,
   name: 'oldagram',
   category: 'web app',
   link: "https://oldagram-copy-instagram.netlify.app/",
@@ -273,7 +291,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:18,
+  id:19,
   name: 'coworking spaces website frontpage',
   category: 'web app',
   link: "https://coworking-hubs-page.netlify.app/",
@@ -289,7 +307,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:19,
+  id:20,
   name: 'annoying cookie consent',
   category: 'web app',
   link: "https://cookie-consent-pop-up.netlify.app",
@@ -309,7 +327,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:20,
+  id:21,
   name: 'cats mood picker',
   category: 'web app',
   link: "https://cats-mood-pickker.netlify.app/",
@@ -328,7 +346,7 @@ const data =   [
   date: "09 12 2023",
 },
 {
-  id:21,
+  id:22,
   name: 'xtwitter',
   category: 'social app',
   link: "https://x-clonee.netlify.app/",
@@ -348,7 +366,7 @@ const data =   [
   date: "09 12 2023",
 },
 {
-  id:22,
+  id:23,
   name: 'luxury bikes',
   category: 'fake web store',
   link: "https://opulent-bike-store.netlify.app/",
@@ -366,7 +384,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:23,
+  id:24,
   name: 'snakes splash page',
   category: 'splash page',
   link: "https://snakes-splash.netlify.app/",
@@ -384,7 +402,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:24,
+  id:25,
   name: 'activity-ideas-generator',
   category: 'one page',
   link: "https://act-ivitygenerator.netlify.app/",
@@ -401,7 +419,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:25,
+  id:26,
   name: 'war',
   category: 'web',
   link: "https://war-war-card-game.netlify.app/",
@@ -421,7 +439,7 @@ const data =   [
   date: "10 2023",
 },
 {
-  id:26,
+  id:27,
   name: 'my-business-card',
   category: 'web-page',
   link: "https://ivan-vasylyniuk.netlify.app/",
