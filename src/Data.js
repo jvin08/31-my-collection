@@ -15,7 +15,7 @@ const data =   [
       ["setinterval", "https://developer.mozilla.org/en-US/docs/Web/API/setInterval"],
       ["animation shake", "https://unused-css.com/blog/css-shake-animation/"],
       ["transform: translate3d", "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d"],
-      ["color-faker", "https://cdn.skypack.dev/@faker-js/faker"],
+      ["color-faker", "https://fakerjs.dev/"],
     ],
     date: "11 2023",
   },
