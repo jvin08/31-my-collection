@@ -27,7 +27,7 @@ const SingleProject = () => {
         console.log(error);
         setLoading(false)
       }
-    }
+    }     
     getProject();
   },[id]);
   if(loading){
