@@ -8,7 +8,7 @@ const data =   [
         link: "https://weath-e-r-app.netlify.app/",
         info: "current location weather, world cities weather, weather forecast",
         img:
-          'https://raw.githubusercontent.com/jvin08/www-ther/main/weather-page.jpg',
+          'https://raw.githubusercontent.com/jvin08/www-ther/main/weather-page1.jpg',
         sources: [
           ["react", "https://react.dev/"], 
           ["state", "https://react.dev/learn/updating-objects-in-state"],
