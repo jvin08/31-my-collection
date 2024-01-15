@@ -3,6 +3,24 @@
 const data =   [
     {
         id:0,
+        name: 'todo-a-p-p',
+        category: 'web',
+        link: "https://to-do-x-six.vercel.app/",
+        info: "manage activity, track dayli tasks, set up goals",
+        img:
+          'https://raw.githubusercontent.com/jvin08/to-do-x/main/front-page.JPG',
+        sources: [
+          ["react", "https://react.dev/"], 
+          ["state", "https://react.dev/learn/updating-objects-in-state"],
+          ["typescript", "https://typehero.dev/tracks/typescript-foundations"],
+          ["react router 6", "https://reactrouter.com/en/main"],
+          ["passing data", "https://react.dev/learn/passing-data-deeply-with-context"],
+          ["virtual DOM", "https://legacy.reactjs.org/docs/faq-internals.html"],
+        ], 
+        date: "01 2024",
+      },
+    {
+        id:1,
         name: 'weather-a-p-p',
         category: 'web app',
         link: "https://weath-e-r-app.netlify.app/",
@@ -20,7 +38,7 @@ const data =   [
         date: "01 2024",
       },
   {
-    id:1,
+    id:2,
     name: 'pomodoro-a-p-p',
     category: 'web app',
     link: "https://pomodoro-a-p-p.netlify.app/",
@@ -38,7 +56,7 @@ const data =   [
     date: "11 2023",
   },
   {
-    id:2,
+    id:3,
     name: 'jobster',
     category: 'web app',
     link: "https://jobs-tracking.netlify.app",
@@ -56,7 +74,7 @@ const data =   [
     date: "04 2023",
   },
   {
-    id:3,
+    id:4,
     name: 'quiz',
     category: 'web quiz',
     link: "https://qu-i-z.netlify.app",
@@ -69,7 +87,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:4,
+    id:5,
     name: 'gadgetopia',
     category: 'online store',
     link: "https://gadget-opia.netlify.app/",
@@ -85,7 +103,7 @@ const data =   [
     date: "02 2023",
   },
   {
-    id:5,
+    id:6,
     name: 'gallery',
     category: 'picture\'s bank',
     link: "https://st-ock-pho-to.netlify.app/",
@@ -101,7 +119,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:6,
+    id:7,
     name: 'cocktail\'s',
     category: 'drinks\'s bank',
     link: "https://cocktails4u.netlify.app/",
@@ -116,7 +134,7 @@ const data =   [
     date: "11 2022",
   },
   {
-    id:7,
+    id:8,
     name: 'create person',
     category: 'random people',
     link: "https://newrandomperson.netlify.app/",
@@ -131,7 +149,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:8,
+    id:9,
     name: 'pagination',
     category: 'random pages',
     link: "https://p-agination.netlify.app/",
@@ -145,7 +163,7 @@ const data =   [
     date: "12 2022",
   },
   {
-    id:9,
+    id:10,
     name: 'movies searcher',
     category: 'collection',
     link: "https://mo-vies-db.netlify.app/",
@@ -159,7 +177,7 @@ const data =   [
     date: "12 2022",
   },
   {
-  id:10,
+  id:11,
   name: 'github user',
   category: 'users data',
   link: "https://charts4u.netlify.app/",
@@ -175,7 +193,7 @@ const data =   [
   date: "12 2022",
 },
 {
-  id:11,
+  id:12,
   name: 'theme toggler',
   category: 'front page',
   link: "https://t-heme-toggle.netlify.app/",
@@ -191,7 +209,7 @@ const data =   [
   date: "12 2022",
 },
 {
-  id:12,
+  id:13,
   name: 'application',
   category: 'form',
   link: "https://registr-form.netlify.app/",
@@ -204,7 +222,7 @@ const data =   [
   date: "01 2023",
 },
 {
-  id:13,
+  id:14,
   name: 'shopping list',
   category: 'notes',
   link: "https://shop-crocodile.netlify.app/",
@@ -220,7 +238,7 @@ const data =   [
   date: "06 2023",
 },
 {
-  id:14,
+  id:15,
   name: 'basketball scoreboard',
   category: 'score counter',
   link: "https://basket-ball-score-boards.netlify.app/",
@@ -235,7 +253,7 @@ const data =   [
   date: "08 2023",
 },
 {
-  id:15,
+  id:16,
   name: 'blackjack',
   category: 'card game',
   link: "https://black-jack-card-game.netlify.app/",
@@ -250,7 +268,7 @@ const data =   [
   date: "08 2023",
 },
 {
-  id:16,
+  id:17,
   name: 'passwords generator',
   category: 'security app',
   link: "https://two-passwords-generator.netlify.app/",
@@ -265,7 +283,7 @@ const data =   [
   date: "08 2023",
 },
 {
-  id:17,
+  id:18,
   name: 'leads tracker',
   category: 'chrome/brave-extention',
   link: "https://leads-tracker-extention.netlify.app/",
@@ -280,7 +298,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:18,
+  id:19,
   name: '6-units-converter',
   category: 'web app',
   link: "https://6-unit-converter.netlify.app/",
@@ -295,7 +313,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:19,
+  id:20,
   name: 'oldagram',
   category: 'web app',
   link: "https://oldagram-copy-instagram.netlify.app/",
@@ -309,7 +327,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:20,
+  id:21,
   name: 'coworking spaces website frontpage',
   category: 'web app',
   link: "https://coworking-hubs-page.netlify.app/",
@@ -325,7 +343,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:21,
+  id:22,
   name: 'annoying cookie consent',
   category: 'web app',
   link: "https://cookie-consent-pop-up.netlify.app",
@@ -345,7 +363,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:22,
+  id:23,
   name: 'cats mood picker',
   category: 'web app',
   link: "https://cats-mood-pickker.netlify.app/",
@@ -364,7 +382,7 @@ const data =   [
   date: "09 12 2023",
 },
 {
-  id:23,
+  id:24,
   name: 'xtwitter',
   category: 'social app',
   link: "https://x-clonee.netlify.app/",
@@ -384,7 +402,7 @@ const data =   [
   date: "09 12 2023",
 },
 {
-  id:24,
+  id:25,
   name: 'luxury bikes',
   category: 'fake web store',
   link: "https://opulent-bike-store.netlify.app/",
@@ -402,7 +420,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:25,
+  id:26,
   name: 'snakes splash page',
   category: 'splash page',
   link: "https://snakes-splash.netlify.app/",
@@ -420,7 +438,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:26,
+  id:27,
   name: 'activity-ideas-generator',
   category: 'one page',
   link: "https://act-ivitygenerator.netlify.app/",
@@ -437,7 +455,7 @@ const data =   [
   date: "09 2023",
 },
 {
-  id:27,
+  id:28,
   name: 'war',
   category: 'web',
   link: "https://war-war-card-game.netlify.app/",
@@ -457,7 +475,7 @@ const data =   [
   date: "10 2023",
 },
 {
-  id:28,
+  id:29,
   name: 'my-business-card',
   category: 'web-page',
   link: "https://ivan-vasylyniuk.netlify.app/",
